@@ -17,4 +17,5 @@ Requirements Install the following tools:
    go to the simulator and select a track and hit "Autonomous Mode" If everything went well, then the autonomous car will be seen driving itself.
 
 **Disclaimer** 
+
 This project is for educational purposes and shouldn't be installed on any machine for live usage. If the needs for a real live autonomous car driving arises, I would use Carla instead of Udacity. While Carla would require an Nvidia PC, Udacity runs smoothly on low graphic machines without crashing and this is the reason it is being used to prepare this project.
