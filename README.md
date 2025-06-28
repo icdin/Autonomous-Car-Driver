@@ -5,7 +5,7 @@ Requirements Install the following tools:
 -python
 -anaconda 
 **Steps to run this simulator**
-1. Clone this repo git clone https://github.com/icdin/Self-driving-car
+1. Clone this repo git clone https://github.com/icdin/autonomous-car-driver
 2. Install Udacity https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/Term1-Sim/term1-simulator-windows.zip
    Extract the zip file and run the executable file .exec
 3. Create your virtual environment run conda create -n myenv
