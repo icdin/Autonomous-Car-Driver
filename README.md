@@ -10,7 +10,7 @@ Requirements Install the following tools:
    Extract the zip file and run the executable file .exec
 3. Create your virtual environment run conda create -n myenv
 4. Activate the environment run conda activate myenv
-5. Install the following dependencies opencv-contrib-python, numpy matplotlib, tensorflow, Flask, eventlet, python-engineio==3.13.2, python-socketio==4.6.1 Or for short,
+5. Install the following dependencies opencv-contrib-python, numpy matplotlib, tensorflow, Flask, eventlet, python-engineio, python-socketio Or for short,
    run pip -r requirements.txt to automatically install all.
 6. Drive the autonomous car
    To drive this model, open a terminal from this environment and run "python drive.py --user" Once connected,
