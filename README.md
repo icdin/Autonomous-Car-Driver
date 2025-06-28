@@ -1,9 +1,9 @@
 # Autonomous-Car-Driver
 The project highlights how to use a simulator(Udacity) to program and run an autonomous vehicle
 Requirements Install the following tools:
-
--python
--anaconda 
+   . python
+   . anaconda 
+   
 **Steps to run this simulator**
 1. Clone this repo git clone https://github.com/icdin/autonomous-car-driver
 2. Install Udacity https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/Term1-Sim/term1-simulator-windows.zip
